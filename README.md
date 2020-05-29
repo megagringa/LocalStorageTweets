@@ -1,4 +1,4 @@
-# # LocalStorageTweets. //en Construccion
+# # LocalStorageTweets.
 
 ### [LocalStorageTweets](https://megagringa.github.io/LocalStorageTweets/index.html)
 
