@@ -13,8 +13,8 @@ Proyecto:LocalStorage trabajado desde Udemy - El proyecto viene con una estructu
     - CSS
     - JS
 
-Proyecto: .El usuario podra crear/eliminar/ver sustweets en un listado.
-          .Los tweets se almacenan en LocalStorage.
-          .El usuario podra agregar una cantidad ilimitada de tweets.
-          .Al cargar la página los tweets debe cargarse de LocalStorage, al eliminarse debe, quitarse del LocalStorage.
+Proyecto: -.El usuario podra crear/eliminar/ver sustweets en un listado.
+          -.Los tweets se almacenan en LocalStorage.
+          -.El usuario podra agregar una cantidad ilimitada de tweets.
+          -.Al cargar la página los tweets debe cargarse de LocalStorage, al eliminarse debe, quitarse del LocalStorage.
 
