@@ -8,11 +8,9 @@ Proyecto:LocalStorage trabajado desde Udemy - El proyecto viene con una estructu
 
 ## Lenguajes y tecnologías.
 
-- **HTML5**:
-    - HTML
-    - CSS
-    - JS
-
+- HTML5
+- CSS3
+- JS(Javascript)
 
 
 - **Proyecto**:
